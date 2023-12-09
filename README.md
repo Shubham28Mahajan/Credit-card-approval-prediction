@@ -19,7 +19,5 @@ After our data is in good shape, we will do some exploratory data analysis to bu
 
 Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.
 
-🔗Git Hub Link:
-https://lnkd.in/gq8SKubv
 
 #machinelearning #python #dataanalytics,#datascience , #businessanalysis,#sql
